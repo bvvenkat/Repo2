@@ -1,0 +1,10 @@
+ Volume in drive D is Windows
+ Volume Serial Number is 3448-C34D
+
+ Directory of D:\MyGitProject
+
+10/26/2017  03:03 PM    <DIR>          .
+10/26/2017  03:03 PM    <DIR>          ..
+10/26/2017  03:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,829,306,880 bytes free
